@@ -1,2 +1,2 @@
 # SafePplay
-Korea safeweb since 2021-07-21
+Korea safeweb since 2022.2.17
